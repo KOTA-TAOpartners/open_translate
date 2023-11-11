@@ -1,0 +1,32 @@
+<?php
+
+return[
+    ["code" => "EN", "locale" => "en-US", "name" => "ENGLISH"],
+    ["code" => "JA", "locale" => "ja-JP", "name" => "JAPANESE"],
+    ["code" => "IT", "locale" => "it-IT", "name" => "ITALY"],
+    ["code" => "ID", "locale" => "id-ID", "name" => "INDONESIAN"],
+    ["code" => "UK", "locale" => "uk-UA", "name" => "UKRAINIAN"],
+    ["code" => "ET", "locale" => "et-EE", "name" => "ESTONIAN"],
+    ["code" => "NL", "locale" => "nl-NL", "name" => "DUTCH"],
+    ["code" => "EL", "locale" => "el-GR", "name" => "GREEK"],
+    ["code" => "SV", "locale" => "sv-SE", "name" => "SWEDISH"],
+    ["code" => "ES", "locale" => "es-ES", "name" => "SPANISH"],
+    ["code" => "SK", "locale" => "sk-SK", "name" => "SLOVAK"],
+    ["code" => "SL", "locale" => "sl-SL", "name" => "SLOVENIA"],
+    ["code" => "CS", "locale" => "cs-CZ", "name" => "CZECH"],
+    ["code" => "DA", "locale" => "da-DK", "name" => "DANISH"],
+    ["code" => "DE", "locale" => "de-DE", "name" => "GERMAN"],
+    ["code" => "TR", "locale" => "tr-TR", "name" => "TURKISH"],
+    ["code" => "HU", "locale" => "hu-HU", "name" => "HUNGARIAN"],
+    ["code" => "FI", "locale" => "fi-FI", "name" => "FINNISH"],
+    ["code" => "FR", "locale" => "fr-FR", "name" => "FRENCH"],
+    ["code" => "BG", "locale" => "bg-BG", "name" => "BULGARIAN"],
+    ["code" => "PL", "locale" => "pl-PL", "name" => "POLISH"],
+    ["code" => "PT", "locale" => "pt-PT", "name" => "PORTUGUESE"],
+    ["code" => "PT", "locale" => "pt-BR", "name" => "BRAZILIAN"],
+    ["code" => "LV", "locale" => "lv-LV", "name" => "LATVIAN"],
+    ["code" => "LT", "locale" => "lt-LT", "name" => "LITHUANIAN"],
+    ["code" => "RO", "locale" => "ro-RO", "name" => "ROMANIAN"],
+    ["code" => "RU", "locale" => "ru-RU", "name" => "RUSSIAN"],
+    ["code" => "ZH", "locale" => "zh", "name" => "CHINESE"]
+];
